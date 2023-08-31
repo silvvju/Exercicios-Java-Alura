@@ -1,4 +1,4 @@
-# 📝 Exercicios Java - Alura 
+# 📝 JAVA | Exercícios Alura 
 Neste espaço, você poderá acompanhar minha jornada de aprendizado sobre programação em Java por meio dos cursos oferecidos pela plataforma Alura. 
 
 # ⭐ Formação 
