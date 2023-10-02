@@ -9,12 +9,12 @@ Neste espaço, você poderá acompanhar minha jornada de aprendizado sobre progr
 
 ## ⌛ Em andamento
 <b>CURSO</b> <br>
-  Java: criando sua primeira aplicação
+  Java: aplicando a Orientação a Objetos
 
-<b>DESAFIO</b> <br>
-  Conta Bancária: simulador de uma conta bancária simples, permitindo que o usuário realize operações como depósito, saque e verificação de saldo. 
 
 ## ❗ Desafios desenvolvidos
 - <b> <a href="https://github.com/silvvju/Exercicios-Java-Alura/blob/main/ExerciciosAlura/src/JogodeAdivinhacao.java">Jogo de Adivinhação</a>:</b> programa em que o computador escolhe um número aleatório e o jogador tenta adivinhar qual é esse número.
   
 - <b> <a href="https://github.com/silvvju/Exercicios-Java-Alura/blob/main/ExerciciosAlura/src/ConversorDeTemperatura.java"> Conversor de Temperatura</a>:</b> realiza a conversão de temperatura de Celsius para Fahrenheit usando a fórmula matemática necessária.
+
+- <b> <a href="https://github.com/silvvju/Exercicios-Java-Alura/blob/main/ExerciciosAlura/src/DesafioFinal.java"> Desafio Final 1</a>:</b> simulador de uma conta bancária simples, permitindo que o usuário realize operações como depósito, saque e verificação de saldo. 
